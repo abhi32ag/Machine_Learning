@@ -1,2 +1,9 @@
 # Machine_Learning
-Contains all machine learning scripts and codes
+
+Structure of the Repository 
+|
+|— Logistic_Classification
+|
+|— Linear Regression 
+
+ ##Contains all machine learning scripts and codes
