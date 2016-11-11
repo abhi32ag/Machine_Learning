@@ -6,4 +6,4 @@ Structure of the Repository
 |
 |— Linear Regression 
 
- ##Contains all machine learning scripts and codes
+ -  Contains all machine learning scripts and codes
