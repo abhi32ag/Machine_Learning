@@ -2,7 +2,9 @@
 
 Structure of the Repository 
 |
+
 |— Logistic_Classification
+
 |
 |— Linear Regression 
 
